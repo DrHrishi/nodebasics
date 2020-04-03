@@ -1,0 +1,16 @@
+{
+    "/": "apiDocs",
+    "/signup": "signup",
+    "/signin": "signin",
+    "/signout": "signout",
+    "/users": "all users",
+    "/user/:userId": "get/update/delete",
+    "/create/employees": "/create/employees",
+    "/employees": "/employees",
+    "deleteEmployeeById": "/employee/:employeeId",
+    "updateEmployeeById": "/employee/:employeeId",
+    "getEmployeeById": "/employee/:employeeId",
+    "employeePhoto": "/employee/photo/:employeeId",
+    "addRoles": "/addroles",
+    "getAllRoles": "/getroles"
+}
